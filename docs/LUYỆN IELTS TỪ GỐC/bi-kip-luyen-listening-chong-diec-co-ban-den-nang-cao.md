@@ -11,6 +11,7 @@ Releated:
   - "[[LISTENING]]"
 ---
 _**BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO**_
+![](https://i.imgur.com/NeecmY5.png)
 
 Khi các bạn nghe tiếng Anh, các vấn đề mà các bạn gặp phải thường là:
 
