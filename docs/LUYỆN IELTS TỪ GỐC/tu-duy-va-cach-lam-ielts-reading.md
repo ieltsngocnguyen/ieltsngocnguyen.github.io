@@ -4,7 +4,7 @@ aliases:
   - TƯ DUY VÀ CÁCH LÀM IELTS READING
 tags:
   - chiasekinhnghiem
-  - pronunciation
+  - reading
 date: 
 share: 
 category: 

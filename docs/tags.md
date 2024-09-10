@@ -2,7 +2,7 @@
 title: Tags Page
 aliases: 
 tags:
-  - NoneTag
+  - Tag
 date: 
 share: true
 category: docs
