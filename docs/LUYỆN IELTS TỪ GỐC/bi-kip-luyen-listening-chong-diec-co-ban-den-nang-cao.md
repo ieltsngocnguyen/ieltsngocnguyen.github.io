@@ -1,6 +1,7 @@
 ---
-title: BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO
-aliases: 
+title: bi-kip-luyen-listening-chong-diec-co-ban-den-nang-cao
+aliases:
+  - BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO
 tags:
   - listening
   - chiasekinhnghiem

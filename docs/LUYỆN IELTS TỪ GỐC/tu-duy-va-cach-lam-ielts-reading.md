@@ -1,5 +1,5 @@
 ---
-title: TƯ DUY VÀ CÁCH LÀM IELTS READING
+title: tu-duy-va-cach-lam-ielts-reading
 aliases:
   - TƯ DUY VÀ CÁCH LÀM IELTS READING
 tags:
