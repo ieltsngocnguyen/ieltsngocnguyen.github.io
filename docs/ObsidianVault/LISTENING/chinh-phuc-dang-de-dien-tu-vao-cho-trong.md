@@ -13,7 +13,7 @@ Releated:
 
 
  CHINH PHỤC DẠNG BÀI ĐIỀN TỪ VÀO CHỖ TRỐNG
-![600x600](https://i.imgur.com/nBpidGx.png)
+![](https://i.imgur.com/nBpidGx.png){: .center}
 
 Đây là một series mình viết để tổng hợp lại hướng dẫn cách làm các dạng bài trong IELTS.
 

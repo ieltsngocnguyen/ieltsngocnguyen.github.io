@@ -12,7 +12,7 @@ Releated:
 ---
 
 CHINH PHỤC DẠNG BÀI MATCHING HEADING CHO IELTS READING
-![](https://i.imgur.com/deKHZ8s.png)
+![](https://i.imgur.com/deKHZ8s.png){: .center}
 
 > [!NOTE] 
 > Ý chính của mỗi câu chính là phần chủ ngữ, vị ngữ chính nhất của câu, bỏ qua những phần râu ria. Ví dụ chỗ mình highlight ở trong hình chính là cách đọc lấy ý chính.
