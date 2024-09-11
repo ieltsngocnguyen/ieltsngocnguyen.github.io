@@ -3,7 +3,7 @@
   max-width: 1500px;
 }
 
-img[src*="#center"] {
+.center {
     display: block;
     margin: 0 auto;
 }
