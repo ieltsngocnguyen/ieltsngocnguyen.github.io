@@ -20,4 +20,19 @@ Sách 31 High-Scoring Formulas To Answer The Ielts Speaking Questions
 https://www.mediafire.com/?tv9z9fd8xgpt25q  
 PASS: ngocbach
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/vPX0ogpm2s0?si=EsudCKEdvkjU1uOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+# IELTS Speaking part 1: Dạng câu hỏi What do you usually do?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cAaUMwnj6v8?si=sARX8J_Tl16SLnOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+
+# Speaking part 1: Dạng câu hỏi Do you prefer X to Y?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPX0ogpm2s0?si=rCZmJfNWWdl9bSzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+| # IELTS Speaking part 1: Dạng câu hỏi What do you usually do?                                                                                                                                                                                                                                                                            | Speaking part 1: Dạng câu hỏi Do you prefer X to Y?                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <iframe width="300" height="315" src="https://www.youtube.com/embed/cAaUMwnj6v8?si=sARX8J_Tl16SLnOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> | <iframe width="360" height="315" src="https://www.youtube.com/embed/vPX0ogpm2s0?si=rCZmJfNWWdl9bSzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br> |
+|                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                              |
