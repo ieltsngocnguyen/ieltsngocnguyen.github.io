@@ -1,5 +1,5 @@
 ---
-title: BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO
+title: Bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 aliases:
   - bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 tags:
