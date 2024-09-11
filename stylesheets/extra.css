@@ -2,3 +2,8 @@
 .md-grid {
   max-width: 1500px;
 }
+
+img[src*="#center"] {
+    display: block;
+    margin: 0 auto;
+}
