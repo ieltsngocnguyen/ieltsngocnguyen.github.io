@@ -4,7 +4,6 @@ aliases:
   - Chinh phục dạng bài điền từ vào chỗ trống
 tags:
   - listening
-  - chiasekinhnghiem
 date: 
 url: 
 author: NGỌC-NGUYỄN

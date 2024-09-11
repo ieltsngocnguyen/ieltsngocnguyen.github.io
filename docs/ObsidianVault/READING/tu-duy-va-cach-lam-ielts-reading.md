@@ -3,7 +3,6 @@ title: Tư duy và cách làm bài IELTS Reading
 aliases:
   - Tư duy và cách làm bài IELTS Reading
 tags:
-  - chiasekinhnghiem
   - reading
 date: 
 share: 

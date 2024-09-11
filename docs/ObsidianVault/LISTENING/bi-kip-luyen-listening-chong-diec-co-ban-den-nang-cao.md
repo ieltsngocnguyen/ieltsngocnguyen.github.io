@@ -4,7 +4,6 @@ aliases:
   - Bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 tags:
   - listening
-  - chiasekinhnghiem
 date: 
 share: 
 category: 

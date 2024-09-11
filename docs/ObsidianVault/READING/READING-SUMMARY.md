@@ -3,8 +3,7 @@ title: READING SUMMARY
 aliases:
   - READING
 tags:
-  - listening
-  - chiasekinhnghiem
+  - MOC
 date: 
 url: 
 author: NGỌC-NGUYỄN

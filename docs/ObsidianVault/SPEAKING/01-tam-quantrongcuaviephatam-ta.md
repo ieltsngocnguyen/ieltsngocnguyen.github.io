@@ -3,8 +3,8 @@ title: Tầm quan trọng của việc phát âm đúng trong tiếng anh
 aliases:
   - Tầm quan trọng của việc phát âm đúng trong tiếng anh
 tags:
-  - chiasekinhnghiem
   - speaking
+  - pronunciation
 date: 
 url: 
 author: NGỌC-NGUYỄN

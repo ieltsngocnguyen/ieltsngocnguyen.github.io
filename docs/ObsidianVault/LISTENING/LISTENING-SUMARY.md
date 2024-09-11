@@ -3,8 +3,7 @@ title: LISTENING SUMMARY
 aliases:
   - LISTENING
 tags:
-  - listening
-  - chiasekinhnghiem
+  - MOC
 date: 
 url: 
 author: NGỌC-NGUYỄN
