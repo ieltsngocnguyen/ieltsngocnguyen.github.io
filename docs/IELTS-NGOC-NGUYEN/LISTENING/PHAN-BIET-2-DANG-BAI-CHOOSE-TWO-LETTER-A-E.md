@@ -1,6 +1,6 @@
 ---
-title: PHÂN BIỆT HAI DẠNG BÀI CHOOSE LETTER A-E
-aliases:
+title: Phân biệt 2 dạng bài choose two letter A-E
+aliases: Phân biệt 2 dạng bài choose two letter A-E
   - 
 tags:
   - listening

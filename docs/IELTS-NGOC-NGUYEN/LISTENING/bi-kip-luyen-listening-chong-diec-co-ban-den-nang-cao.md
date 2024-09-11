@@ -1,7 +1,7 @@
 ---
 title: BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO
 aliases:
-  - BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO
+  - bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 tags:
   - listening
   - chiasekinhnghiem
