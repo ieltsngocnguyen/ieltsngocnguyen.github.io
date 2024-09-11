@@ -9,7 +9,7 @@ date:
 url: 
 author: NGỌC-NGUYỄN
 Releated:
-  - "[[LISTENING]]"
+  - "[[LISTENING-SUMARY]]"
 ---
 
 

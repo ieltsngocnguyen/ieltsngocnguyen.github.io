@@ -1,14 +1,13 @@
 ---
 title: Phân biệt 2 dạng bài choose two letter A-E
-aliases: Phân biệt 2 dạng bài choose two letter A-E
-  - 
+aliases: Phân biệt 2 dạng bài choose two letter A-E -
 tags:
   - listening
 date: 
 url: 
 author: NGỌC-NGUYỄN
 Releated:
-  - "[[LISTENING]]"
+  - "[[LISTENING-SUMARY]]"
 ---
 
 PHÂN BIỆT 2 DẠNG BÀI Choose **TWO** letters, **A-E**. trong IELTS Listening

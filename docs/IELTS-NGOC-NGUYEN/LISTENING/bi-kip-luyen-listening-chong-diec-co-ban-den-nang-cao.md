@@ -1,7 +1,7 @@
 ---
 title: Bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 aliases:
-  - bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
+  - Bí kíp luyện listeninng chống điếc từ cơ bản đến nâng cao
 tags:
   - listening
   - chiasekinhnghiem
@@ -9,7 +9,7 @@ date:
 share: 
 category: 
 Releated:
-  - "[[LISTENING]]"
+  - "[[LISTENING-SUMARY]]"
 ---
 _**BÍ KÍP LUYỆN LISTENING CHỐNG ĐIẾC TỪ CƠ BẢN ĐẾN NÂNG CAO**_
 ![](https://i.imgur.com/NeecmY5.png)

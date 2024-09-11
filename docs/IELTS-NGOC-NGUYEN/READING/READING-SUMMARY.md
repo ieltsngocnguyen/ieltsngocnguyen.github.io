@@ -1,7 +1,7 @@
 ---
-title: title
+title: READING SUMMARY
 aliases:
-  - "{{title}}"
+  - READING
 tags:
   - listening
   - chiasekinhnghiem
@@ -12,3 +12,5 @@ Releated:
   - "[[LISTENING-SUMARY]]"
 ---
 
+
+🍀[[tu-duy-va-cach-lam-ielts-reading|Tư duy và cách làm bài IELTS Reading]]

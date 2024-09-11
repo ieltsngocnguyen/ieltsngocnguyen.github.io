@@ -9,7 +9,7 @@ date:
 share: 
 category: 
 Releated:
-  - "[[SPEADING]]"
+  - "[[READING-SUMMARY]]"
 ---
 ![](https://i.imgur.com/riDaRjm.png)
 
