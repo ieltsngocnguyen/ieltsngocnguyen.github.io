@@ -12,3 +12,4 @@ Releated:
 ---
 
 🍀[[01-tam-quantrongcuaviephatam-ta|Tầm quan trọng của việc phát âm đúng trong tiếng anh]]
+🍀[[02-LUYEN-PHAT-AM-NHU-THE-NAO|Luyện phát âm như thế nào]]
