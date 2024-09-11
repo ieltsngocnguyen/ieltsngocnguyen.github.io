@@ -2,9 +2,7 @@
 title: title
 aliases:
   - "{{title}}"
-tags:
-  - listening
-  - chiasekinhnghiem
+tags: []
 date: 
 url: 
 author: NGỌC-NGUYỄN
