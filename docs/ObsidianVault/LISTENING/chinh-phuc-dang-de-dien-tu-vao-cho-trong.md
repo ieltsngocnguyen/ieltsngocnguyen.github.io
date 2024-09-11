@@ -13,9 +13,12 @@ Releated:
 
 
  CHINH PHỤC DẠNG BÀI ĐIỀN TỪ VÀO CHỖ TRỐNG
+<<<<<<< HEAD
 ![](https://i.imgur.com/nBpidGx.png){:  .center}
 
 ![Mô tả ảnh](https://i.imgur.com/nBpidGx.png){: .center}
+
+=======
 
 
 Đây là một series mình viết để tổng hợp lại hướng dẫn cách làm các dạng bài trong IELTS.
