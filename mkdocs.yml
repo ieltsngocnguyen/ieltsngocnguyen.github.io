@@ -118,4 +118,12 @@ extra_javascript:
   - assets/javascripts/interactive_graph.js
   - assets/javascripts/obsidian_tags.js
 
-copyright: Copyright &copy; 2024 
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@baongocvt1
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/ngoc.nguyen.7965692
+    
+
+copyright: Copyright &copy; 2024 bao-ngoc
