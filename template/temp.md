@@ -1,12 +1,10 @@
 ---
-title: title
-aliases:
-  - "{{title}}"
-tags: []
+title: 
+aliases: 
+tags: 
 date: 
 url: 
 author: NGỌC-NGUYỄN
 Releated:
-  - "[[LISTENING-SUMARY]]"
 ---
 
