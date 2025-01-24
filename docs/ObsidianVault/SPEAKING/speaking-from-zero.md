@@ -12,6 +12,10 @@ Releated:
 
 # Bắt đầu luyện Speaking: Con số 0 không đáng sợ ![🌟](https://static.xx.fbcdn.net/images/emoji.php/v9/te0/1/16/1f31f.png)
 
+
+
+
+![May be an image of text](https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/474466011_122134177178555407_7438496487988324688_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jAdeQefST4EQ7kNvgG7JNtp&_nc_oc=AdilMWMNNX6e8t0nsueq55O328MNlVg-RMJOXWUEQcWk83hXAsT0wxng6VC22DCdtho&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=AYuTHqFFnplBxXLWO4dijwf&oh=00_AYBTWJ4Aa5k59LP05px5KiPfqJN60Xmp_ZM1MRKTTF0d6w&oe=679900C5#center)
 Một bạn học viên của mình vừa nói: "Kỹ năng Speaking của mình đang ở con số 0." Nghe quen thuộc quá, vì chính mình cũng từng ở điểm xuất phát đó.
 
 Hồi mới luyện IELTS, phần từ vựng khi làm bài đọc và nghe của mình tương đối tốt, nhưng khi nói thì ấp úng, ậm ờ rất nhiều, từ vựng thì đơn giản, ngữ pháp cũng sai. Mình đánh giá khả năng nói của mình lúc đó chỉ ở mức A1 đến A2.
@@ -61,6 +65,4 @@ Bản thân mình nhận ra rằng: Speaking từ con số 0 thực ra không qu
 ![⏳](https://static.xx.fbcdn.net/images/emoji.php/v9/tb7/1/16/23f3.png) <span style="background:rgba(173, 239, 239, 0.55)">Xây nền mất thời gian</span>, nhưng nếu bạn kiên trì với nó, quá trình luyện nói sau này sẽ nhanh và hiệu quả hơn rất nhiều.
 
 
-
-![May be an image of text](https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/474466011_122134177178555407_7438496487988324688_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jAdeQefST4EQ7kNvgG7JNtp&_nc_oc=AdilMWMNNX6e8t0nsueq55O328MNlVg-RMJOXWUEQcWk83hXAsT0wxng6VC22DCdtho&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=AYuTHqFFnplBxXLWO4dijwf&oh=00_AYBTWJ4Aa5k59LP05px5KiPfqJN60Xmp_ZM1MRKTTF0d6w&oe=679900C5#center)
 
